@@ -2,16 +2,16 @@
 
 ### :octocat: &nbsp; Tech Stack
 
-![Android](https://img.shields.io/badge/-Android-066A00?style=flat&logo=android)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-005E7C?style=flat&logo=kotlin)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-802700?style=flat&logo=android)&nbsp;
-![Swift](https://img.shields.io/badge/-Swift-7C5300?style=flat&logo=swift)&nbsp;
-![iOS](https://img.shields.io/badge/-iOS-505050?style=flat&logo=apple)&nbsp;
-![XCode](https://img.shields.io/badge/-XCode-00526D?style=flat&logo=xcode)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-898900?style=flat&logo=firebase)&nbsp;
-![SQLite](https://img.shields.io/badge/-SQLite-066A00?style=flat&logo=sqlite)&nbsp;
-![Git](https://img.shields.io/badge/-Git-505050?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-802700?style=flat&logo=github)&nbsp;  
+![Android](https://img.shields.io/badge/-Android-066A00?style=flat&logo=android&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/-Kotlin-005E7C?style=flat&logo=kotlin&logoColor=white)&nbsp;
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-802700?style=flat&logo=android&logoColor=white)&nbsp;
+![Swift](https://img.shields.io/badge/-Swift-7C5300?style=flat&logo=swift&logoColor=white)&nbsp;
+![iOS](https://img.shields.io/badge/-iOS-505050?style=flat&logo=apple&logoColor=white)&nbsp;
+![XCode](https://img.shields.io/badge/-XCode-00526D?style=flat&logo=xcode&logoColor=white)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-898900?style=flat&logo=firebase&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-066A00?style=flat&logo=sqlite&logoColor=white)&nbsp;
+![Git](https://img.shields.io/badge/-Git-505050?style=flat&logo=git&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-802700?style=flat&logo=github&logoColor=white)&nbsp;  
 
 ### :bar_chart: &nbsp; Statistics
 
@@ -21,5 +21,7 @@
 </p>
 
 <p>
-<a href="mailto:omercankoc@icloud.com"><img src="https://img.shields.io/badge/-Contact%20Me!-005E7C?style=flat&logo=icloud&logoColor=white"/></a>
+<a href="mailto:omercankoc@icloud.com"><img src="https://img.shields.io/badge/-Mail-003B48?style=flat&logo=icloud&logoColor=white"/></a>
+<a href="https://twitter.com/omercankoc"><img src="https://img.shields.io/badge/-Twitter-008076?style=flat&logo=twitter&logoColor=white"/></a>
+
 </p>
