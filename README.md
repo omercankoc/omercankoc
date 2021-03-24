@@ -20,6 +20,6 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omercankoc&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-<p>
-<a href="mailto:omercankoc@icloud.com"><img src="https://img.shields.io/badge/-Send%20to%20Mail-D14836?style=flat&logo=icloud&logoColor=white"/></a>
+<p align="center">
+<a href="mailto:omercankoc@icloud.com"><img src="https://img.shields.io/badge/-Contact%20Me!-005E7C?style=flat&logo=icloud&logoColor=white"/></a>
 </p>
