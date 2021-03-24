@@ -20,8 +20,10 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=omercankoc&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-<p>
-<a href="mailto:omercankoc@icloud.com"><img src="https://img.shields.io/badge/-Mail-003B48?style=flat&logo=icloud&logoColor=white"/></a>
-<a href="https://twitter.com/omercankoc"><img src="https://img.shields.io/badge/-Twitter-008076?style=flat&logo=twitter&logoColor=white"/></a>
+### :punch: &nbsp;Contact Me!
 
+<p>
+<a href="mailto:omercankoc@icloud.com"><img src="https://img.shields.io/badge/-Mail-802700?style=flat&logo=icloud&logoColor=white"/></a>
+<a href="https://twitter.com/omercankoc"><img src="https://img.shields.io/badge/-Twitter-005E7C?style=flat&logo=twitter&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/omercankoc/"><img src="https://img.shields.io/badge/-LinkedIn-066A00?style=flat&logo=linkedin&logoColor=white"/></a>
 </p>
