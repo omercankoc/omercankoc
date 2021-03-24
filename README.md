@@ -23,7 +23,7 @@
 ### :punch: &nbsp;Contact Me!
 
 <p>
-<a href="mailto:omercankoc@icloud.com"><img src="https://img.shields.io/badge/-Mail-802700?style=flat&logo=icloud&logoColor=white"/></a>
-<a href="https://twitter.com/omercankoc"><img src="https://img.shields.io/badge/-Twitter-005E7C?style=flat&logo=twitter&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/omercankoc/"><img src="https://img.shields.io/badge/-LinkedIn-066A00?style=flat&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:omercankoc@icloud.com"><img src="https://img.shields.io/badge/-Mail-802700?style=flat&logo=icloud&logoColor=white"/></a>&nbsp;
+<a href="https://twitter.com/omercankoc"><img src="https://img.shields.io/badge/-Twitter-005E7C?style=flat&logo=twitter&logoColor=white"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/omercankoc/"><img src="https://img.shields.io/badge/-LinkedIn-066A00?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
 </p>
